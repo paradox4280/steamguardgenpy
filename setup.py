@@ -5,7 +5,7 @@ with open('README.md', 'r') as r:
 
 setup(
     name='steamguardgenpy',
-    version=1.0,
+    version=0.1,
     description='Generate steam twofactor (onetime/TOTP) code.',
     long_description=long_description,
     long_description_content_type='text/markdown',
