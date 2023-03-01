@@ -1,2 +1,2 @@
 # steamguardgenpy
-Generate twofactor (onetime/TOTP) code.
+Generate steam twofactor (onetime/TOTP) code.
