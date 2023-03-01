@@ -4,6 +4,7 @@ from base64 import b64decode
 from struct import pack, unpack
 from hmac import new as hmac
 
+
 def gen_two_factor_code(shared_secret: str, timestamp: int = None) -> str:
     """Generate steam twofactor (onetime/TOTP) code."""
 
